@@ -1,0 +1,19 @@
+SELECT ?X ?Y ?Z WHERE { 
+	?X <http://swat.cse.lehigh.edu/onto/univ-bench.owl#memberOf> ?Z .
+	?Z <http://swat.cse.lehigh.edu/onto/univ-bench.owl#subOrganizationOf> ?Y .
+	?Y <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swat.cse.lehigh.edu/onto/univ-bench.owl#University> .
+}
+
+SELECT ?X ?Y ?Z WHERE {
+	?X <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swat.cse.lehigh.edu/onto/univ-bench.owl#GraduateStudent> .
+	?Z <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swat.cse.lehigh.edu/onto/univ-bench.owl#Department> . 
+	?X <http://swat.cse.lehigh.edu/onto/univ-bench.owl#memberOf> ?Z . 
+	?Z <http://swat.cse.lehigh.edu/onto/univ-bench.owl#subOrganizationOf> ?Y .
+	?Y <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swat.cse.lehigh.edu/onto/univ-bench.owl#University> .
+}
+
+SELECT ?X ?Y ?Z WHERE {
+	?X <http://swat.cse.lehigh.edu/onto/univ-bench.owl#memberOf> ?Z .
+	?X <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swat.cse.lehigh.edu/onto/univ-bench.owl#GraduateStudent> .
+	?X <http://swat.cse.lehigh.edu/onto/univ-bench.owl#undergraduateDegreeFrom> ?Y .
+}
