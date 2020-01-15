@@ -1,0 +1,35 @@
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#telephone>	704	3	5
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#title>	608	3	5
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#researchProject>	772	6	8	null	false
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#doctoralDegreeFrom>	787	2	10	null	false
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#mastersDegreeFrom>	786	2	10	null	false
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#advisor>	844	6	8	null	false
+<http://www.w3.org/2002/07/owl#topObjectProperty>	768	2	2
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#headOf>	803	1	10	null	false
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#undergraduateDegreeFrom>	785	2	10	null	false
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#publicationResearch>	848	6	8	null	false
+<http://www.w3.org/2002/07/owl#topDataProperty>	1024	2	2
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#member>	792	6	8	<http://swat.cse.lehigh.edu/onto/univ-bench.owl#memberOf>	false
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#listedCourse>	804	6	8	null	false
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#affiliateOf>	820	6	8	null	false
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#tenured>	824	6	8	null	false
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#teachingAssistantOf>	788	6	8	null	false
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#emailAddress>	672	3	5
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	0	1	1
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#softwareDocumentation>	808	6	8	null	false
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#subOrganizationOf>	840	6	8	null	true
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#publicationAuthor>	812	6	8	null	false
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#takesCourse>	796	6	8	null	false
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#hasAlumnus>	780	6	8	<http://swat.cse.lehigh.edu/onto/univ-bench.owl#degreeFrom>	false
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#orgPublication>	776	6	8	null	false
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#publicationDate>	832	6	8	null	false
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#softwareVersion>	816	6	8	null	false
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#worksFor>	802	1	9	null	false
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#memberOf>	800	6	8	<http://swat.cse.lehigh.edu/onto/univ-bench.owl#member>	false
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#teacherOf>	828	6	8	null	false
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#affiliatedOrganizationOf>	836	6	8	null	false
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#name>	576	3	5
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#officeNumber>	544	3	5
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#age>	640	3	5
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#researchInterest>	736	3	5
+<http://swat.cse.lehigh.edu/onto/univ-bench.owl#degreeFrom>	784	6	8	<http://swat.cse.lehigh.edu/onto/univ-bench.owl#hasAlumnus>	false
