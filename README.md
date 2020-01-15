@@ -12,7 +12,7 @@ CMake version 3.14 is required. If there is a problem of library, please install
 
 The execution command is in the form of:
 
-    ./succinct_edge data_path query_path storage_path tbox_path reason show_result
+    ./succinct_edge data_path query_path storage_path tbox_path reasoning show_result
 
 
 To conduct a test for lubm1 with RDFS reasoning:
