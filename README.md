@@ -23,4 +23,4 @@ To conduct a test for a small test data without reasoning:
         
     ./succinct_edge test_data/smallDataExample.nt test_query/small_data_query.sparql store/small_data_example test_tbox/ false false
         
-The `show_result` parameter can be changed to output all the results into terminal.
+The `show_result` parameter can be changed aiming at showing all the results in terminal.
