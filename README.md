@@ -4,7 +4,7 @@
 
     cmake ./
 
-CMake version 3.14 is required. If there is a problem of library, please install [sdsl](https://github.com/simongog/sdsl-lite) manually. <br>
+CMake version 3.14 is required. [sdsl](https://github.com/simongog/sdsl-lite) already exists in `lib` and `ìnclude`, if there is a problem, please install manually. <br>
 
     make
 
