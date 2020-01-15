@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="triple_store"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="triple_store">
+				<Option output="/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/triple_store" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/xu/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/Makefile&quot;  VERBOSE=1 triple_store"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="triple_store/fast">
+				<Option output="/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/triple_store" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/xu/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/Makefile&quot;  VERBOSE=1 triple_store/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/BitMap.cpp">
+			<Option target="triple_store"/>
+		</Unit>
+		<Unit filename="/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/BitMap.hpp">
+			<Option target="triple_store"/>
+		</Unit>
+		<Unit filename="/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/Constant.hpp">
+			<Option target="triple_store"/>
+		</Unit>
+		<Unit filename="/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/Dictionary.cpp">
+			<Option target="triple_store"/>
+		</Unit>
+		<Unit filename="/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/Dictionary.hpp">
+			<Option target="triple_store"/>
+		</Unit>
+		<Unit filename="/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/JoinLine.cpp">
+			<Option target="triple_store"/>
+		</Unit>
+		<Unit filename="/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/JoinLine.hpp">
+			<Option target="triple_store"/>
+		</Unit>
+		<Unit filename="/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/JoinTable.cpp">
+			<Option target="triple_store"/>
+		</Unit>
+		<Unit filename="/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/JoinTable.hpp">
+			<Option target="triple_store"/>
+		</Unit>
+		<Unit filename="/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/JoinVariables.cpp">
+			<Option target="triple_store"/>
+		</Unit>
+		<Unit filename="/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/JoinVariables.hpp">
+			<Option target="triple_store"/>
+		</Unit>
+		<Unit filename="/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/LiteMatDictionary.cpp">
+			<Option target="triple_store"/>
+		</Unit>
+		<Unit filename="/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/LiteMatDictionary.hpp">
+			<Option target="triple_store"/>
+		</Unit>
+		<Unit filename="/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/QueryEngine.cpp">
+			<Option target="triple_store"/>
+		</Unit>
+		<Unit filename="/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/QueryEngine.hpp">
+			<Option target="triple_store"/>
+		</Unit>
+		<Unit filename="/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/RDFStorage.cpp">
+			<Option target="triple_store"/>
+		</Unit>
+		<Unit filename="/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/RDFStorage.hpp">
+			<Option target="triple_store"/>
+		</Unit>
+		<Unit filename="/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/RDFTypeStore.cpp">
+			<Option target="triple_store"/>
+		</Unit>
+		<Unit filename="/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/RDFTypeStore.hpp">
+			<Option target="triple_store"/>
+		</Unit>
+		<Unit filename="/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/RankBaseElement.cpp">
+			<Option target="triple_store"/>
+		</Unit>
+		<Unit filename="/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/RankBaseElement.hpp">
+			<Option target="triple_store"/>
+		</Unit>
+		<Unit filename="/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/TriplePattern.cpp">
+			<Option target="triple_store"/>
+		</Unit>
+		<Unit filename="/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/TriplePattern.hpp">
+			<Option target="triple_store"/>
+		</Unit>
+		<Unit filename="/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/TripleStore.cpp">
+			<Option target="triple_store"/>
+		</Unit>
+		<Unit filename="/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/TripleStore.hpp">
+			<Option target="triple_store"/>
+		</Unit>
+		<Unit filename="/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/Util.hpp">
+			<Option target="triple_store"/>
+		</Unit>
+		<Unit filename="/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/main.cpp">
+			<Option target="triple_store"/>
+		</Unit>
+		<Unit filename="/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/quickSortTS.hpp">
+			<Option target="triple_store"/>
+		</Unit>
+		<Unit filename="/Users/xu/Documents/Doctorat/git_workplace/triple_store_optjoin_merge_reasoner_bitmap/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
