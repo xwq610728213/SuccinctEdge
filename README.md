@@ -7,6 +7,8 @@
 CMake version 3.14 is required. [Succinct Data Structure Library(sdsl)](https://github.com/simongog/sdsl-lite), which is required for compilation, already exists in `lib` and `ìnclude`, if there is a problem, please install manually. <br>
 
     make
+    
+An executable file named `succinct_edge` will be generated.
 
 ## Run the test
 
