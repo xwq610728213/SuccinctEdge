@@ -4,7 +4,7 @@
 
     cmake ./
 
-CMake version 3.14 is required. [Succinct Data Structure Library(sdsl)](https://github.com/simongog/sdsl-lite), which is required for compilation, already exists in `lib` and `ìnclude`, if there is a problem, please install manually. This configuration has already been tested with MacOS. <br>
+CMake version 3.14 is required. [Succinct Data Structure Library(sdsl)](https://github.com/simongog/sdsl-lite), which is required for compilation, already exists in `lib` and `ìnclude`, if there is a problem, please install manually. This configuration has already been tested with Raspbian and MacOS. <br>
 
     make
     
