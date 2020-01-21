@@ -1,10 +1,12 @@
 # SuccinctEdge
 
+To run the test, [Succinct Data Structure Library(sdsl)](https://github.com/simongog/sdsl-lite) must be installed.
+
 ## Compile
 
     cmake ./
 
-CMake version 3.14 is required. [Succinct Data Structure Library(sdsl)](https://github.com/simongog/sdsl-lite), which is required for compilation, already exists in `lib` and `ìnclude`, if there is a problem, please install manually. This configuration has already been tested with Raspbian and MacOS. <br>
+CMake version 3.14 is required, if there is a version problem, users may change the version number in CMakeLists.txt directly. This configuration has already been tested with Raspbian and MacOS. <br>
 
     make
     
