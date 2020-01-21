@@ -1,6 +1,6 @@
 # SuccinctEdge
 
-To run the test, [Succinct Data Structure Library(sdsl)](https://github.com/simongog/sdsl-lite) must be installed.
+To run the test, [Succinct Data Structure Library(sdsl)](https://github.com/simongog/sdsl-lite) must be installed in /usr/local/.
 
 ## Compile
 
